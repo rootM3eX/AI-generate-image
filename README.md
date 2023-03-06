@@ -1,3 +1,3 @@
 # AI-generate-image
 
-With MongooDB Express ReactJS NodeJs
+With fullstack javascript MERN (MongooDB Express ReactJS NodeJs)
